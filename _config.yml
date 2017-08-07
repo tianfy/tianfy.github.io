@@ -1,0 +1,27 @@
+markdown: kramdown
+highlighter: pygments
+permalink: /posts/:title.html
+excerpt_separator: "<!-- more -->"
+
+github: tianfy
+author: "rex.tian"
+email: yz_android@163.com
+name: "rex.tian个人博客"
+all_categories: [ 
+["program", "软件编程","/posts/program.html"], 
+["linux", "Linux相关","/posts/linux.html"],
+["read", "读书笔记","/posts/read.html"], 
+["other", "杂记","/posts/other.html"],
+["about", "关于","/about.html"]
+]
+
+paginate: 8
+paginate_path: "posts/page:num"
+timezone: America/Los_Angeles
+
+collections:
+  docs:
+    output: true
+
+gems:
+ - jekyll-paginate
