@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "wireless"
-title:  "11naHT40\11naHT40+\11naHT40-的意思"
+title:  "11naHT40 11naHT40plus 11naHT40minus的意思"
 tags: [无线,HT40]
 ---
 ### 简介
