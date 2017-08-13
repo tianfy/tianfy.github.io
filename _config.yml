@@ -8,7 +8,7 @@ author: "rex.tian"
 email: yz_android@163.com
 name: "rex.tian个人博客"
 all_categories: [ 
-["program", "软件编程","/posts/program.html"], 
+["wireless", "无线","/posts/wireless.html"], 
 ["linux", "Linux相关","/posts/linux.html"],
 ["read", "读书笔记","/posts/read.html"], 
 ["other", "杂记","/posts/other.html"],
