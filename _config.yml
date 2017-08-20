@@ -10,6 +10,7 @@ name: "rex.tian个人博客"
 all_categories: [ 
 ["wireless", "无线","/posts/wireless.html"], 
 ["linux", "Linux相关","/posts/linux.html"],
+["cloud", "云计算","/posts/cloud.html"],
 ["read", "读书笔记","/posts/read.html"], 
 ["other", "杂记","/posts/other.html"],
 ["about", "关于","/about.html"]
