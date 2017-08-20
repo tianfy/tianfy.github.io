@@ -22,16 +22,16 @@ tags: [云计算,OpenStack,IaaS,PaaS,SaaS]
 ```
 1、基础设施即服务(Infrastructure as a Service, IaaS) 
 	用户通过Internet可以从完善的计算机基础设施获得服务，相当于裸机。例如：硬件服务器租用、虚拟机管理程序
-1、平台即服务(Platform as a Service, PaaS)
-	    将IT资源配置和部署好，形成就绪可用的环境给用户，用户可以在此平台上开发自己的应用，包括中间件、操作系统。例如：安装好数据库环境
+2、平台即服务(Platform as a Service, PaaS)
+	将IT资源配置和部署好，形成就绪可用的环境给用户，用户可以在此平台上开发自己的应用，包括中间件、操作系统。例如：安装好数据库环境
 	PaaS一般带有不同的开发环境，方便不同的软件平台进行开发。例如：安装好java开发环境等
-1、软件即服务(Software as a Service, SaaS)
+3、软件即服务(Software as a Service, SaaS)
 	将程序定位成共享的云服务，例如腾讯的企业邮箱，不用关心后台，只可使用此服务即可。
 4、其他：存储即服务；数据库即服务；安全即服务；通信即服务；测试即服务；集成即服务；处理即服务；
 大唐移动云计算平台架构：
-![](images/datangyidongyunpingtjiagou.png)
+![](https://github.com/tianfy/tianfy.github.io/blob/master/_posts/images/datangyidongyunpingtjiagou.png)
 云平台架构图2：
-![](images/yunjiagou.png)
+![](https://github.com/tianfy/tianfy.github.io/blob/master/_posts/images/yunjiagou2.png)
 ``` 
 
 ### 四种常见的云计算部署模型
