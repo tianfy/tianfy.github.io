@@ -29,9 +29,9 @@ tags: [云计算,OpenStack,IaaS,PaaS,SaaS]
 	将程序定位成共享的云服务，例如腾讯的企业邮箱，不用关心后台，只可使用此服务即可。
 4、其他：存储即服务；数据库即服务；安全即服务；通信即服务；测试即服务；集成即服务；处理即服务；
 大唐移动云计算平台架构：
-![](https://github.com/tianfy/tianfy.github.io/raw/master/_posts/images/datangyidongyunpingtjiagou.png)
+![](https://raw.githubusercontent.com/tianfy/tianfy.github.io/master/_posts/images/datangyidongyunpingtjiagou.png)
 云平台架构图2：
-![](https://github.com/tianfy/tianfy.github.io/raw/master/_posts/images/yunjiagou2.png)
+![](https://raw.githubusercontent.com/tianfy/tianfy.github.io/master/_posts/images/yunjiagou2.png)
 ``` 
 
 ### 四种常见的云计算部署模型
